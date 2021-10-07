@@ -3,9 +3,9 @@ E41202281_Bahrul Aji Santoso_TIF D
 
 Output Widget
 
-![Screenshot_20211007-213118](https://user-images.githubusercontent.com/76810040/136421304-09a71521-cc6a-4527-956b-d13cb65d08fb.png)
-![Screenshot_20211007-213242](https://user-images.githubusercontent.com/76810040/136421384-7ac755f3-b202-4472-bb75-4b9c1b334c0b.png)
-![Screenshot_20211007-213259](https://user-images.githubusercontent.com/76810040/136421540-d7024e9b-93a7-4ae0-b0d8-2a422f804530.png)
+![Screenshot_20211007-233055](https://user-images.githubusercontent.com/76810040/136426777-872a3fab-353e-4d5d-b36e-d1ab0014c2e3.png)
+![Screenshot_20211007-233130](https://user-images.githubusercontent.com/76810040/136426804-b7729159-852c-427f-ad65-f4691e599419.png)
+![Screenshot_20211007-233307](https://user-images.githubusercontent.com/76810040/136426828-71bb504f-161c-4689-9c81-aa56afd974c0.png)
 
 Output Recycler View
 
