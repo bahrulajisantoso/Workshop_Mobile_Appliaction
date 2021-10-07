@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Widget</string>
+    <string-array name="kategori">
+        <item>English</item>
+        <item>Deutch</item>
+        <item>France</item>
+        <item>Indonesia</item>
+        <item>Italiano</item>
+        <item>Português</item>
+    </string-array>
+</resources>
